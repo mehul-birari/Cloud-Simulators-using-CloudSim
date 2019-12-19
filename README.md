@@ -34,22 +34,22 @@ The Simulations include the following design models for Cloud Architecture which
 The output shows the various results we obtain after the simulation. 
 
 - Default Cloudlet Scheduler with 1 Datacenter
-![Default Cloudlet Scheduler with 1 Datacenter](https://bitbucket.org/mehulbirari/mehul_birari_hw1/raw/a82d3cdefe87840750007f01dcd47c8b355dc406/images/DefaultDC1.JPG?raw=true "Default Cloudlet Scheduler with 1 Datacenter")
+![Default Cloudlet Scheduler with 1 Datacenter](https://raw.githubusercontent.com/mehul-birari/Cloud-Simulators-using-CloudSim/master/images/DefaultDC1.JPG "Default Cloudlet Scheduler with 1 Datacenter")
 
 - Default Cloudlet Scheduler with 2 Datacenters
-![Default Cloudlet Scheduler with 2 Datacenters](https://bitbucket.org/mehulbirari/mehul_birari_hw1/raw/fc37fb2e690134cc623dd3e5d8259bde174ad899/images/DefaultDC2.JPG?raw=true "Default Cloudlet Scheduler with 2 Datacenters")
+![Default Cloudlet Scheduler with 2 Datacenters](https://raw.githubusercontent.com/mehul-birari/Cloud-Simulators-using-CloudSim/master/images/DefaultDC2.JPG "Default Cloudlet Scheduler with 2 Datacenters")
 
 - Space Shared Cloudlet Scheduler with 1 Datacenter
-![Space Shared Cloudlet Scheduler with 1 Datacenter](https://bitbucket.org/mehulbirari/mehul_birari_hw1/raw/fc37fb2e690134cc623dd3e5d8259bde174ad899/images/SpaceSharedDC1.JPG?raw=true "Space Shared Cloudlet Scheduler with 1 Datacenter")
+![Space Shared Cloudlet Scheduler with 1 Datacenter](https://raw.githubusercontent.com/mehul-birari/Cloud-Simulators-using-CloudSim/master/images/SpaceSharedDC1.JPG "Space Shared Cloudlet Scheduler with 1 Datacenter")
 
 - Space Shared Cloudlet Scheduler with 2 Datacenters
-![Space Shared Cloudlet Scheduler with 2 Datacenters](https://bitbucket.org/mehulbirari/mehul_birari_hw1/raw/fc37fb2e690134cc623dd3e5d8259bde174ad899/images/SpaceSharedDC2.JPG?raw=true "Space Shared Cloudlet Scheduler with 2 Datacenters")
+![Space Shared Cloudlet Scheduler with 2 Datacenters](https://raw.githubusercontent.com/mehul-birari/Cloud-Simulators-using-CloudSim/master/images/SpaceSharedDC2.JPG "Space Shared Cloudlet Scheduler with 2 Datacenters")
 
 - Time Shared Cloudlet Scheduler with 1 Datacenter
-![Time Shared Cloudlet Scheduler with 1 Datacenter](https://bitbucket.org/mehulbirari/mehul_birari_hw1/raw/fc37fb2e690134cc623dd3e5d8259bde174ad899/images/TimeSharedDC1.JPG?raw=true "Time Shared Cloudlet Scheduler with 1 Datacenter")
+![Time Shared Cloudlet Scheduler with 1 Datacenter](https://raw.githubusercontent.com/mehul-birari/Cloud-Simulators-using-CloudSim/master/images/TimeSharedDC1.JPG "Time Shared Cloudlet Scheduler with 1 Datacenter")
 
 - Time Shared Cloudlet Scheduler with 2 Datacenters
-![Time Shared Cloudlet Scheduler with 2 Datacenters](https://bitbucket.org/mehulbirari/mehul_birari_hw1/raw/fc37fb2e690134cc623dd3e5d8259bde174ad899/images/TimeSharedDC2.JPG?raw=true "Time Shared Cloudlet Scheduler with 2 Datacenters")
+![Time Shared Cloudlet Scheduler with 2 Datacenters](https://raw.githubusercontent.com/mehul-birari/Cloud-Simulators-using-CloudSim/master/images/TimeSharedDC2.JPG "Time Shared Cloudlet Scheduler with 2 Datacenters")
 
 ### Analysis
  
